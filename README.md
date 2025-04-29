@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em construir soluções c
 ## 🚀 Sobre mim
 
 - 🧠 Interesse em **IA**, e **desenvolvimento web**
-- 🛠 Stack atual: `React`, `Node.js`, `TypeScript`, `Fastify`, `Prisma`, `MySQL`
+- 🛠 Stack atual: `React`, `React Native`, `Node.js`, `TypeScript`, `Fastify`, `Prisma`, `MySQL`
 - 🌱 Atualmente aprendendo mais sobre **arquitetura de software** e **visualização interativa**
 - ⚽ Apaixonado por futebol e tecnologia — onde esses dois mundos se encontram, eu estou lá!
 
