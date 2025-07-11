@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em construir soluções c
 ## 🚀 Sobre mim
 
 - 🧠 Interesse em **IA**, **desenvolvimento web** e **desenvolvimento mobile**
-- 🛠 Stack atual: `React`, `React Native`, `Node.js`, `TypeScript`, `Fastify`, `Prisma`, `MySQL`
+- 🛠 Stack atual: `React`, `Angular`, `React Native`, `Node.js`, `TypeScript`, `Fastify`, `Prisma`, `MySQL`
 - 🌱 Atualmente aprendendo mais sobre **arquitetura de software** e **visualização interativa**
 - ⚽ Apaixonado por futebol e tecnologia — onde esses dois mundos se encontram, eu estou lá!
 
@@ -24,8 +24,8 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em construir soluções c
 
 - 💸 **[Sistema de controle financeiro pessoal](https://roxyall-control.vercel.app/)**  
   Projeto fullstack com login, categorias de gasto, e dashboard com gráficos
-- 💸 **App de controle financeiro pessoal**  
-  Versão mobile do sistema web, feito com react native
+- 💸 **Sistema para teste de novas funcionalidades do Angular**  
+  Teste com stanalone componentes, guards como funções, injeção de dependências
 
 - 🎯 **Projeto de análise tática no futebol**  
   Análise da precisão de um sistema de tracking de jogadores e da bola no Futebol
@@ -34,7 +34,7 @@ Sou um desenvolvedor apaixonado por tecnologia, focado em construir soluções c
 
 ## 🛠 Tecnologias e ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,mysql,prisma,git,vercel,render)
+![My Skills](https://skillicons.dev/icons?i=ts,nodejs,angular,react,nextjs,mysql,prisma,git,vercel,render)
 
 ---
 
