@@ -60,19 +60,33 @@ Atualmente trabalho como **Desenvolvedor Fullstack Jr na RedMaxx**, onde desenvo
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🏆 Projeto em Destaque
+
+### [Grafolão da Copa 2026](https://grafolao-2026-frontend.vercel.app)
+
+**Bolão da Copa do Mundo 2026 com análise de Teoria dos Grafos — em produção, usado por alunos da UFAM.**
+
+Trabalho final da disciplina de Introdução à Teoria dos Grafos (UFAM, 2026/01), idealizado pela Profa. Rosiane de Freitas, com desenvolvimento liderado por mim como parte do grupo de pesquisa **ALGOX** (Algoritmos, Otimização, Inteligência e Complexidade Computacional) do ICOMP/UFAM.
+
+`React` `TypeScript` `Fastify` `Prisma` `PostgreSQL` `Supabase` `Docker` `Vercel` `Render`
+
+- 🔐 Autenticação Google OAuth2 + JWT
+- ⚽ 104 jogos da Copa 2026, fase de grupos completa ao mata-mata
+- 🎯 Sistema de pontuação automático (placar exato, vencedor, saldo de gols)
+- 👥 Comunidades públicas/privadas com cargos, aprovação de membros e ranking interno
+- 🛠️ Painel administrativo para gestão de resultados
+- 📊 Módulos de grafos em desenvolvimento: PageRank, Dijkstra, Bron-Kerbosch e MST aplicados sobre dados reais de palpites
+
+**[🔗 Acessar o sistema](https://grafolao-2026-frontend.vercel.app)** · **[💻 Ver código](https://github.com/ufam-grafolao/grafolao-2026)**
+
+---
+
+## 🚀 Outros Projetos
 
 ### 💰 [Roxyall Control](https://github.com/Samuel-Davi/roxyall-control-monorepo)
 Sistema fullstack de controle financeiro pessoal — receitas, despesas e dashboard.
 
 `Next.js` `React` `TypeScript` `Fastify` `Prisma` `PostgreSQL` `Docker`
-
----
-
-### 🛒 [Super Duper Mart](https://github.com/Samuel-Davi/super-duper-mart)
-Sistema desktop de gerenciamento de mercado com controle de estoque, vendas e relatórios.
-
-`Java` `JavaFX` `MySQL` `MVC` `DAO`
 
 ---
 
